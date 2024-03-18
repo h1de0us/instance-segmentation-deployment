@@ -8,3 +8,6 @@ grequests
 aiohttp
 furl
 starlette-prometheus
+grpcio
+grpcio-tools
+supervisor
